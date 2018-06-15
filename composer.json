@@ -10,11 +10,12 @@
   "license": "proprietary",
   "authors": [
     {
-      "name": "author's name",
+      "name": "Jean-Michael",
       "email": "email@example.com"
     }
   ],
   "require": {
-    "humbug/humbug": "1.0.0-alpha2"
+    "phpunit/phpunit": "7.2.4",
+    "infection/infection": "0.9.x-dev"
   }
 }

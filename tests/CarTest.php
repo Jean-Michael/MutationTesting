@@ -3,7 +3,7 @@
 use Minion\Minion;
 use Minion\Car;
 
-class CarTest extends \PHPUnit_Framework_TestCase
+class CarTest extends \PHPUnit\Framework\TestCase
 {
     public function testAddMinion()
     {
